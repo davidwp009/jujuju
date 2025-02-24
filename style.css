@@ -249,7 +249,7 @@ html{
 
 
 
-img{
+/*img{
     animation-name: spin;
     animation-duration: 5s;
     animation-timing-function: linear;
@@ -262,6 +262,6 @@ img{
     100%{
         transform: rotate(360deg);
     }
-}
+}*/
 
 
